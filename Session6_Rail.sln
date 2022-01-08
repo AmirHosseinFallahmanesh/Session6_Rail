@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{5E88451F-FB3C-4AA8-8792-4153B84A6EE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpliteDemo", "SpliteDemo\SpliteDemo.csproj", "{E226A430-510F-4916-B477-326C41E630C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E88451F-FB3C-4AA8-8792-4153B84A6EE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E88451F-FB3C-4AA8-8792-4153B84A6EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E88451F-FB3C-4AA8-8792-4153B84A6EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E88451F-FB3C-4AA8-8792-4153B84A6EE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E226A430-510F-4916-B477-326C41E630C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E226A430-510F-4916-B477-326C41E630C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E226A430-510F-4916-B477-326C41E630C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E226A430-510F-4916-B477-326C41E630C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58A238E7-3E14-42A9-85D7-B369FADE3B59}
+	EndGlobalSection
+EndGlobal
